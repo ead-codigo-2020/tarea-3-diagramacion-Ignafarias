@@ -1,0 +1,101 @@
+.algo:hover{
+    padding: 123px;
+}
+body{
+    padding: none; 
+    margin: none; 
+}
+.titulo{
+     font-size: 60px; 
+     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     color: white;
+     padding: 40px;
+     padding-right: 40%;
+}
+
+.lista1{
+    display: flex;
+    overflow: hidden;
+    background-color:black;
+    text-align: left;
+    margin-top: 5px;
+    
+
+}
+.lista1 li{
+    float: left;
+    display: block;
+    color:white;
+    padding: 5px 20px;
+    text-decoration: none;
+    font-size: 13px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+.lista2 li{
+    float: right;
+    display: block; 
+    color:white;
+    padding: 5px 20px;
+    text-decoration: none;
+    font-size: 13px;
+}
+.search-container{
+    display: flex;
+    padding-top: 20px;
+    margin-right: 10px;
+}
+
+.lista3 li{ 
+    display: inline; 
+    list-style: none; 
+    padding: 10px; 
+}
+.container{
+
+    background: url(img/i.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+.ndnav{
+    display: flex;
+}   
+.ndnav p{
+    display: flex;
+}    
+.ndnav li{
+    display: inline; 
+    list-style: none; 
+    color: rgb(32, 170, 204); 
+    font-weight: bold; 
+    font-size: 60px;
+}
+.parrafo4{ 
+    text-align: center;
+}
+.imgsos{ 
+ 
+    text-align: center;
+}
+.cd{
+    margin: 40px; 
+    background-color: white;
+}
+.d2{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}    
+.sostenibilidad{
+    background: url(img/j.jpg) no-repeat center center fixed;
+    background-size: cover;
+    padding: 10px;
+    font-family: san -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+}
+.destacamos{
+    background-color: teal; 
+    padding: 40px;
+}
+.transparencia{
+    background-image:url(./img/a.jpg) ; 
+    padding: 40px;
+}
